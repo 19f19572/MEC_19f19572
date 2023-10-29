@@ -1,3 +1,5 @@
-read price 1, price 2
-bill=price 1+price2
+read price meal 1, price meal 2
+bill=price meal 1+price meal 2
+
+If the total amount exceeds 50 OMR, give 5% discount: else, no discount
 print price
